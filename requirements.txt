@@ -1,0 +1,5 @@
+# Add project dependencies here
+flask
+pandas
+joblib
+sklearn
